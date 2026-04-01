@@ -1,7 +1,7 @@
 <h1>Milan Anderle</h1>
 
 <p>
-  <strong>Senior Software Developer @ IMI</strong>
+  <strong>Software Developer @ IMI</strong>
 </p>
 
 <p>
@@ -9,7 +9,7 @@
 </p>
 
 <p>
-  I build and evolve a CPQ-centered digital product platform at IMI plc, shaping platform direction while developing key parts of the platform, web, and service layers, and creating the onboarding, documentation, and shared practices that help developers contribute confidently and take ownership faster.
+  I build and evolve a CPQ-centered digital product platform at IMI plc, shaping platform direction, helping align shared work across teams, developing key parts of the platform, web, and service layers, and creating the onboarding, documentation, and shared practices that help developers contribute confidently and take ownership faster.
 </p>
 
 <p>
@@ -52,7 +52,7 @@
 </p>
 
 <p>
-  Around Tacton CPQ, I build the shared services, embedded code, internal tooling, documentation surfaces, and supporting runtime infrastructure incl. CI pipeline that make the ecosystem reusable, extensible, and maintainable.
+  Around TactonCPQ SaaS, I build the shared services, embedded code, internal tooling, documentation surfaces, and supporting runtime infrastructure incl. CI pipeline that make the ecosystem reusable, extensible, and maintainable.
 </p>
 
 <h2>Industry</h2>
